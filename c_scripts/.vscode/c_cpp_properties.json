@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/aaron/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/aaron/catkin_ws/src/kalman_filters_files/ekf_ukf/include/**",
+        "/home/aaron/catkin_ws/src/jsk_visualization-master/jsk_interactive_markers/jsk_interactive_marker/include/**",
+        "/home/aaron/catkin_ws/src/Pangolin/include/**",
+        "/home/aaron/catkin_ws/src/cpp_course_repo/rosbot_control/include/**",
+        "/home/aaron/catkin_ws/src/selected_points_publisher/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
